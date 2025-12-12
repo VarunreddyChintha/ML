@@ -1,2 +1,2 @@
 # ML
-Models for Smoker Status Prediction using Bio-Signals and Forest Cover Type Dataset 
+Machine Learning Models for Smoker Status Prediction using Bio-Signals and Forest Cover Type Dataset 
